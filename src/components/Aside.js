@@ -6,6 +6,7 @@ import PhoneIcon from "@material-ui/icons/Phone";
 import EmailIcon from "@material-ui/icons/Email";
 import Contact from "./Contact";
 import Skills from "./Skills";
+import logo from "../images/I4G-Logo-Color-Cropped.png";
 
 const initialValues = {
 	html: 90,
@@ -44,6 +45,9 @@ const Aside = () => {
 				<Skills title='NODE' value={initialValues.node}></Skills>
 				<Skills title='JavaScript' value={initialValues.javascript}></Skills>
 				<Skills title='React' value={initialValues.react}></Skills>
+			</div>
+			<div className='hng-logo'>
+				<img src={logo} alt='' />
 			</div>
 		</aside>
 	);
