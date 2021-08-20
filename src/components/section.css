@@ -1,0 +1,22 @@
+.section-center {
+	flex: 0.7;
+	background-color: #fefefe;
+	color: #404040;
+	padding: 0px 20px;
+}
+.section-title h1,
+.section-career h3,
+.section-education h2,
+.section-experience h2,
+.interest__container h2 {
+	text-transform: uppercase;
+	text-decoration: underline;
+	padding-bottom: 5px;
+}
+.section-title h3 {
+	text-transform: uppercase;
+	margin: 10px 0px;
+}
+.section-career ul li {
+	margin: 10px 0px;
+}

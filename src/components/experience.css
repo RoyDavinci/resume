@@ -1,0 +1,11 @@
+.experience__container {
+	display: flex;
+	margin: 10px 0px;
+}
+.experience__year {
+	margin-right: 10px;
+}
+.job {
+	margin-bottom: 4px;
+	text-transform: uppercase;
+}

@@ -1,0 +1,15 @@
+.aside__resume {
+	flex: 0.3;
+	padding: 0.625rem;
+	background-color: #516475;
+	color: white;
+}
+/* .img__container img {
+	width: 200px;
+	height: 400px;
+} */
+.skills__container h1,
+.contact__container h1,
+.about h1 {
+	margin: 10px 0px;
+}

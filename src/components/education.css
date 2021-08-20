@@ -1,0 +1,15 @@
+.education__container {
+	display: flex;
+	margin: 10px 0px;
+}
+.education__year {
+	margin-right: 10px;
+}
+.education__title h5 {
+	text-transform: uppercase;
+	width: 100%;
+	margin-bottom: 4px;
+}
+.education__title p {
+	font-size: 12px;
+}
